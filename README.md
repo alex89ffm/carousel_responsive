@@ -1,6 +1,6 @@
 # Responsive Carousel
 
-##Introductional information
+## Introductional information
 This is a test project for demonstration and does not serve any other purpose.
 Image links are taken from the used carousel library. 
 
@@ -10,7 +10,6 @@ Image links are taken from the used carousel library.
   * npm v. 6.11.3.
 
 ## Installation
-
   * download files to any folder
   * run npm install
   * run npm start
