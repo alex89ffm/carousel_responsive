@@ -1,4 +1,4 @@
-# Respnisve Carousel
+# Responsive Carousel
 
 ##Introductional information
 This is a test project for demonstration and does not serve any other purpose.
